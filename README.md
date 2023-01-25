@@ -11,3 +11,5 @@ Controles:
 - L : Línea
 - P : Escoger color
 - F : Llenar
+
+![kandinsky](https://user-images.githubusercontent.com/47675728/214694943-3c28707a-12cb-4de7-abb2-f7b6e025e328.png)
